@@ -1,0 +1,3 @@
+# Literature-Reviews
+
+The objective of this Git repository is to provide a centralized location for the review summaries of various academic papers related to a particular topic. By collecting and synthesizing information from multiple sources, this repository aims to provide a comprehensive understanding of the current state of research in the field. The summaries in this repository should be concise, easy to read, and provide a high-level overview of the key insights and findings from each paper. Through this repository, readers can quickly and easily access a wealth of knowledge related to the topic, and researchers can build upon the existing body of knowledge by identifying gaps in the literature and areas for further study.
